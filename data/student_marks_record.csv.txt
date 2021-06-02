@@ -1,0 +1,17 @@
+67 , 56, 59, "Average"
+37 , 48, 51, "JustPass"
+77 , 86, 93, "Excellent"
+47 , 58, 52, "JustPass"
+89 , 77, 69, "Excellent"
+40 , 66, 54, "Average"
+49 , 39, 50, "JustPass"
+61 , 37, 43, "JustPass"
+78 , 90, 98, "Excellent"
+67 , 70, 68, "Average"
+37 , 56, 49, "JustPass"
+67 , 78, 61, "Average"
+57 , 36, 43, "JustPass"
+87 , 78, 92, "Excellent"
+69 , 57, 70 "Average"
+
+     	
